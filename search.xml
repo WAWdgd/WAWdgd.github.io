@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[UTAU的Moresampler引擎适用flag列表]]></title>
-    <url>%2F2019%2F12%2F21%2FUTAU%E7%9A%84Moresampler%E5%BC%95%E6%93%8E%E9%80%82%E7%94%A8flag%E5%88%97%E8%A1%A8%2F</url>
+    <url>%2F2020%2F03%2F10%2FUTAU%E7%9A%84Moresampler%E5%BC%95%E6%93%8E%E9%80%82%E7%94%A8flag%E5%88%97%E8%A1%A8%2F</url>
     <content type="text"><![CDATA[本表格中的flag适用于moresampler Ver0.8.2版本 众所周知，Moresampler引擎基频曲线分析力很强，并且重合成后元音启动瞬间部分的变调很平稳，所以在UTAU的鬼畜调教中是非常好用的，对于默认引擎的机械音有很大改善，但flag和其他引擎差异会较大，故在此整理，以便参考。 请务必在utau的”输出选项”中写入”e”参数，输出才不会有奇怪的声音 Flag 数值范围 说明 g -100~100 性别参数，默认值为0，+则为中男性-成年人、-则为中女性-小女孩 t -1200~1200 音长微调，默认值为0，1=半音的1/100 P 0~100 峰值压缩器，基本值为86 A -100~100 音量模拟，默认值为0,有利于做颤音效果 b -20~100 增强/减弱无声辅音，默认值为0 b -20~100 增强/减弱无声辅音，默认值为0 e flase 切换合成方式为伸展 Me flase 切换合成方式为循环 MC 0~100 使声音变得粗糙，默认值为0 MG 0~100 使声音变得有咆哮感，默认值为0 MD 0~100 使声音失真，默认值为0 Mb -100~100 增加呼吸音，默认值为0 Md -100~100 使声音变得清脆干燥，默认值为0，更适用于6KHz以上高频 Mo -100~100 模拟发声时开口较大效果，默认值为0 Ms 0~10 安定化声音(?)，默认值为0，貌似没什么用 Mt -100~100 使声音尖锐，默认值为0 Mr -100~100 提高音频高频，默认值为0，使低频音更自然 Mp -100~100 使音高线随机波动，默认值为0，实际效果很鬼畜 参考自[http://tatsu3.hateblo.jp/entry/2017/12/18/003233](http://tatsu3.hateblo.jp/entry/2017/12/18/003233 "http://tatsu3.hateblo.jp/entry/2017/12/18/003233") 以及https://ch.nicovideo.jp/ejiwarp/blomaga/ar1013816 感谢各位浏览！]]></content>
       <categories>
         <category>鬼畜</category>
